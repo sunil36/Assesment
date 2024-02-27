@@ -1,0 +1,26 @@
+{
+  "name": "assesment",
+  "version": "1.0.0",
+  "description": "all the assesment api work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil36/Assesment.git"
+  },
+  "keywords": [
+    "assesment"
+  ],
+  "author": "Sunil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunil36/Assesment/issues"
+  },
+  "homepage": "https://github.com/sunil36/Assesment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0"
+  }
+}
